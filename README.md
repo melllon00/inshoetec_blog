@@ -5,4 +5,4 @@
 - 이미지 파일을 많이 사용하여 구성
 - 개발 초기 제작한 사이트
 
-<img src="./blob/master/img/slide_10.PNG" width="90%"></img>
+<img src="https://github.com/melllon00/inshoetec_blog/blob/master/img/slide_10.PNG" width="90%"></img>
